@@ -1,1 +1,2 @@
-# admin-panel-easyreserv-b2b
+Admin Panel for iShunea# AdminPanelB2bEasyreservWebsiteVersion2
+# AdminPanelB2bEasyreservWebsiteVersion2
